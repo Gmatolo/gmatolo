@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 
 - 🔭 I’m currently working on developing a speech recognition tool that can be integrated with contact centre solutions.
